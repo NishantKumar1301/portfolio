@@ -28,10 +28,11 @@ This portfolio website is designed to serve as an online resume, showcasing my s
     cd portfolio
 3. Install dependencies:
     ```sh
-npm install
+    npm install
 4. Start the development server:
     ```sh
-npm start
+    npm start
 
-```sh
-Open http://localhost:3000/ in your browser to view the project.
+5. Visit the website
+    ```sh
+    Open http://localhost:3000/ in your browser to view the project.
