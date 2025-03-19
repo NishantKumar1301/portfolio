@@ -36,3 +36,7 @@ This portfolio website is designed to serve as an online resume, showcasing my s
 5. Visit the website
     ```sh
     Open http://localhost:3000/ in your browser to view the project.
+
+6. Visit the delpoyed portfolio 
+    ```sh
+    Open https://portfolio-nishant7456.netlify.app/ in your browser to view the portfolio.
