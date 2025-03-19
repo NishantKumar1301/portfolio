@@ -23,13 +23,15 @@ This portfolio website is designed to serve as an online resume, showcasing my s
    ```sh
    https://github.com/NishantKumar1301/portfolio
 
-Navigate to the project directory:
-sh
-cd portfolio
-Install dependencies:
-sh
+2. Navigate to the project directory:
+    ```sh
+    cd portfolio
+3. Install dependencies:
+    ```sh
 npm install
-Start the development server:
-sh
+4. Start the development server:
+    ```sh
 npm start
+
+```sh
 Open http://localhost:3000/ in your browser to view the project.
